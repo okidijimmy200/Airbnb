@@ -1,0 +1,2 @@
+#register a block
+> prefect block register -m prefect_gcp
